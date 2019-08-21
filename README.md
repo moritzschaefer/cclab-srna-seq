@@ -9,3 +9,11 @@ so most credit for that goes to the authors of that package:
 - Jose Maturana (@matrs)
 
 The other one contains the code for sRNA-seq analysis (which uses some modules from the first repository).
+
+In order to run the pipeline look for
+
+pipelines/srna-seq/rnai_mutants/run.sh
+
+and make sure the raw sequencing files are available in
+
+pipelines/srna-seq/rnai_mutants/units.csv
