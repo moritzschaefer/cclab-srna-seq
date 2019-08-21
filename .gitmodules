@@ -1,0 +1,6 @@
+[submodule "lib/srna-seq-star-deseq2"]
+	path = lib/srna-seq-star-deseq2
+	url = git@github.com:moritzschaefer/srna-seq-star-deseq2
+[submodule "pipelines/srna-seq"]
+	path = pipelines/srna-seq
+	url = git@github.com:moritzschaefer/srna-seq.git
